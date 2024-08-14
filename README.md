@@ -1,4 +1,5 @@
 # Heart-Disease-Prediction-using-ML-Models
+This project utilizes several machine learning models to predict the likelihood of heart disease based on patient data. The dataset is processed with scaling and label encoding, and the models used include Logistic Regression, Decision Tree, Random Forest, and Support Vector Machine (SVM). Various evaluation metrics and cross-validation techniques are applied to ensure accuracy and robustness. The project also demonstrates feature selection using pipelines and visualizes model performance.
 
 ## Project Overview
 This project applies machine learning techniques to predict heart disease using a publicly available dataset. Several models, including Logistic Regression, Decision Tree, Random Forest, and Support Vector Machine (SVM), are trained and evaluated to identify the best performing model.
